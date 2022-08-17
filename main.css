@@ -7,6 +7,7 @@ div {
   padding: 10px;
 }
 .container {
+  width: 900px;
   margin: 20px;
   gap: 20px;
   padding: 30px;
